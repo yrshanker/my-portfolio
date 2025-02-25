@@ -29,7 +29,7 @@ export default function Home() {
       <section className="bg-cmuRed text-white py-10 px-6 text-center shadow-md w-full">
         <h2 className="text-3xl font-bold mb-4">My Philosophy</h2>
         <p className="text-xl italic font-medium max-w-3xl mx-auto">
-          "Success is not final, failure is not fatal: it is the courage to continue that counts."
+          &quot;Success is not final, failure is not fatal: it is the courage to continue that counts.&quot;
         </p>
         <p className="mt-2 text-lg font-semibold">— Winston Churchill</p>
       </section>
@@ -80,7 +80,7 @@ export default function Home() {
 
       {/* 📞 Contact Section */}
       <section className="container mx-auto px-6 py-12 text-center">
-        <h2 className="text-3xl font-semibold text-cmuDarkGray">Let's Connect</h2>
+        <h2 className="text-3xl font-semibold text-cmuDarkGray">Let&apos;s Connect</h2>
         <p className="mt-4 text-lg text-gray-700">Reach out via LinkedIn or GitHub.</p>
         <div className="mt-6 flex justify-center gap-4">
           <Link href="https://www.linkedin.com/in/yshanker/">

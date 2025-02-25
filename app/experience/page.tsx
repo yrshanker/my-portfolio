@@ -146,7 +146,7 @@ export default function Experience() {
             toggleExpand={toggleExpand} 
             visible={visible["nasa"]}
           >
-            <li>Established and led Drexel’s first Lunabotics team for NASA's competition.</li>
+            <li>Established and led Drexel&apos;s first Lunabotics team for NASA&apos;s competition.</li>
             <li>Designed CAD models for a multi-axis robot for automated EV charging solutions.</li>
             <li>Integrated a camera vision system for real-time robot arm simulations.</li>
           </ExperienceEntry>
